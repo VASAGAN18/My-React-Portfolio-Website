@@ -20,7 +20,7 @@ function About() {
                 </p>
             </div>
 
-            <button type="button"  class="btn btn-sm resume-btn btn-outline-success"><a class="aTags" href="VASAGAN B RESUME V1.15.pdf" target="_blank">Download Resume</a></button>
+            {/* <button type="button"  class="btn btn-sm resume-btn btn-outline-success"><a class="aTags" href="VASAGAN B RESUME V1.15.pdf" target="_blank">Download Resume</a></button> */}
             <div class="known-lang">
                 <h6 id="kl-txt">Tools Known</h6>
 
